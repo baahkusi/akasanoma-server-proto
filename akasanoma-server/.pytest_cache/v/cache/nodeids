@@ -1,0 +1,17 @@
+[
+  "tests/test_actions.py::test_get_progress",
+  "tests/test_actions.py::test_get_entries",
+  "tests/test_actions.py::test_get_translations",
+  "tests/test_actions.py::test_set_entries",
+  "tests/test_actions.py::test_set_translations",
+  "tests/test_actions.py::test_set_validations",
+  "tests/test_actions.py::test_all_entries",
+  "tests/test_actions.py::test_all_translations",
+  "tests/test_actions.py::test_all_validations",
+  "tests/test_app.py::test_actions",
+  "tests/test_app.py::test_register",
+  "tests/test_app.py::test_login",
+  "tests/test_app.py::test_generate_pin",
+  "tests/test_utils.py::test_pin",
+  "tests/test_utils.py::test_token"
+]
